@@ -1,6 +1,7 @@
-- This is multimode_Liu / 自大的刘某人, an ordinary GitHub user.
-- 一个普通的音mader
-- Last update time: 2024-12-17
+- This is multimode_Liu / 自大的刘某人.
+- 普通的 GitHub 用户，Git / GitHub noob.
+- 一个普通的音mader。
+- Last update time: 2024-12-18
 <!--
 - Current status: multimode.modeset=0.  
   一点也不 "multimode"。
